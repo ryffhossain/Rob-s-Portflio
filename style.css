@@ -1,0 +1,76 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 80px;
+    line-height: 25px;
+}
+h2{
+    font-size: 60px;
+    color: #363958;
+}
+h3{
+    color: #363958;
+    font-size: 30px;
+}
+.blue{
+    color: #3A3658
+}
+p{
+    line-height: 10px;
+    color: #3E3E3E;
+}
+.red{
+    color: #FF8367
+}
+.front-text{
+    width: 40%;
+    float: left;
+    padding: 3%;
+    margin: 2%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(160deg,#FF8367,rgb(252, 47, 47));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+.front-text img{
+    width: 100%;
+    padding: 0%;
+}
+.About{
+    padding: 10px;
+}
+.loren{
+    line-height: 20px;
+    padding: 10px;
+}
+* {
+    box-sizing: border-box;
+}
+
+.row{
+    float: left;
+    width: 100%;
+    padding: 5%;
+    display: flex;
+    box-shadow: #3E3E3E;
+    margin: 3%;
+    
+}
+.texts{
+    line-height: 20px;
+   text-align: center;
+   text-align: justify;
+}
+h3{
+    text-align: center;
+}
+
+
+.box{
+    padding: 30%;
+    margin:auto
+}
