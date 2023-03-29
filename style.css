@@ -2,75 +2,61 @@ body{
     font-family: 'Bebas Neue', cursive;
 }
 h1{
-    font-size: 80px;
-    line-height: 25px;
+    font-size: 70px;
 }
 h2{
-    font-size: 60px;
-    color: #363958;
+    font-size: 40px;
+    line-height: 60px;
 }
-h3{
-    color: #363958;
-    font-size: 30px;
-}
+
+
 .blue{
-    color: #3A3658
-}
-p{
-    line-height: 10px;
-    color: #3E3E3E;
+    color: #3A3658;
+    
 }
 .red{
-    color: #FF8367
+    color: #FF8367;
+    line-height: 20px;
 }
-.front-text{
-    width: 40%;
-    float: left;
-    padding: 3%;
-    margin: 2%;
+.full{
+    color: #6C6C6C;
+    font-size: 15px;
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(160deg,#FF8367,rgb(252, 47, 47));
-    padding: 10px 40px;
+    background-image: linear-gradient(160deg, #FF8367, rgb(196, 67, 53));
+    padding: 10px 30px;
     border-radius: 5px;
-    color: aliceblue;
+    color: white;
 }
-.front-text img{
-    width: 100%;
-    padding: 0%;
-}
-.About{
-    padding: 10px;
-}
-.loren{
-    line-height: 20px;
-    padding: 10px;
-}
-* {
-    box-sizing: border-box;
-}
-
-.row{
+.upper-sec{
+    width: 40%;
     float: left;
-    width: 100%;
-    padding: 5%;
-    display: flex;
-    box-shadow: #3E3E3E;
-    margin: 3%;
+    padding-left: 2%;
+    margin-left: 5%;
     
 }
-.texts{
+.upper-sec img{
+    width: 100%;
+    margin-bottom: 150px;
+    
+}
+.about{
+    margin-top: 100px;
+}
+.first{
     line-height: 20px;
-   text-align: center;
-   text-align: justify;
 }
-h3{
-    text-align: center;
+.first-image{
+    margin-top: 40px;
 }
+.blues{
+    color: #6C6C6C;
+}
+.three-image{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
 
-
-.box{
-    padding: 30%;
-    margin:auto
 }
